@@ -31,7 +31,7 @@ mensagens_erro = [
 ]
 
 
-application = Application.builder().token("7988831114:AAHzXlHXB6jfhd0iEusdMXg62dEZEEUSaUc").build()
+application = Application.builder().token("TOKEN DO BOT").build()
 
 resp_certa = None
 
@@ -106,4 +106,3 @@ application.add_handler(ConversationHandler(
 
 
 application.run_polling(allowed_updates=Update.ALL_TYPES)
-# 7713190519:AAFqhm0alcImYq0iko6q0VsoeC73Os59Z4M
