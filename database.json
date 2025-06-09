@@ -1,0 +1,22 @@
+[
+    {
+        "nome_em_us": "iron",
+        "nome_em_pt": "ferro",
+        "imagem": "images/Ferro.webp"
+    },
+    {
+        "nome_em_us": "apple",
+        "nome_em_pt": "maça",
+        "imagem": "images/Maça.webp"
+    },
+    {
+        "nome_em_us": "gold",
+        "nome_em_pt": "uva",
+        "imagem": "images/Ouro.webp"
+    },
+    {
+        "nome_em_us": "egg",
+        "nome_em_pt": "laranja",
+        "imagem": "images/Ovo.webp"
+    }
+]
